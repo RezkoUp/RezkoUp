@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RezkoUp
-- 👀 I’m interested in blockhain 
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on linux
+- 👀 I’m interested in buseness 
+- 🌱 I’m currently learning Ai
+- 💞️ I’m looking to collaborate on consulting
 
 
 <!---
